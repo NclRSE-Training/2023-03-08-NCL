@@ -9,10 +9,10 @@ country: "gb"
 language: "en"
 latitude: "54.9731446"        # decimal latitude of workshop venue (use https://www.latlong.net/)
 longitude: "-1.6254413"       # decimal longitude of the workshop venue (use https://www.latlong.net)
-humandate: "2023-02-17"
-humantime: "09:00 - 17:00"
-startdate: 2023-02-17
-enddate: 2023-02-17
+humandate: "2023-03-14"
+humantime: "10:00 - 17:00"
+startdate: 2023-03-14
+enddate: 2023-03-14
 instructor: ["Dr. Kathryn Garside", "Dr. Frances Turner"] # boxed, comma-separated list of instructors' names as strings, like ["Ilina Moitra"]
 helper: ["Dr. Jannetta Steyn", "Zeyneb Aki", "Elizabeth O Oladapo", "Karen Bower"]
 email: ["jannetta.steyn@newcastle.ac.uk"]
