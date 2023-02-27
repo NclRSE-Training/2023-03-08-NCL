@@ -14,7 +14,7 @@ humantime: "10:00 - 17:00"
 startdate: 2023-03-14
 enddate: 2023-03-14
 instructor: ["Dr. Kathryn Garside", "Dr. Frances Turner"] # boxed, comma-separated list of instructors' names as strings, like ["Ilina Moitra"]
-helper: ["Dr. Jannetta Steyn", "Zeyneb Aki", "Elizabeth O Oladapo", "Karen Bower"]
+helper: ["Dr. Jannetta Steyn", "Zeynep Aki", "Elizabeth O Oladapo", "Karen Bower"]
 email: ["jannetta.steyn@newcastle.ac.uk"]
 collaborative_notes: https://hackmd.io/@rseteam-ncl/2023-03-14-NCL
 eventbrite: 530498855357    
